@@ -29,3 +29,11 @@ Bleu et rose:
             <stop stop-color="#6DC8B8" offset="100%"></stop>
             
 <img src="https://github.com/haulindaphne/chatbotPlus/blob/master/unnamed-1.png" alt="screenshot test1">
+
+avec une fenêtre modal:
+
+<img src="https://github.com/haulindaphne/chatbotPlus/blob/master/unnamed-2.png" alt="screenshot modal">
+
+Résultat sur le lien ci-dessous:
+
+Bientôt
