@@ -1,0 +1,216 @@
+/*   - Couleurs: bleu #4A90E2
+     - Gradient: 
+
+Bleu:
+    #7FF6FF 0%
+    #6DDEFA 10.8587771%
+    #4BAEF1 42.4801028%
+    #4BAEF1 75.4621493%
+    #4FACF1 84.0442469%
+    #5BA7F0 100%
+
+Bleu et rose:
+    #D773E5 0%
+    #D377E6 8.41836735%
+    #6DDEFA 82.0531728%
+    #6DC8B8 100%
+*
+*/
+.container-fluid {
+    background-color: #ececec;
+}
+
+.banner-header {
+    height: 72px;
+    margin: 5px 5px 5px 5px;
+    background: linear-gradient(to right, #05FBFF,#1E00FF);
+    border-radius: 25px;
+    color: #122dff;
+    display: inline-block;
+    padding: 1px;
+    text-decoration: none;
+}
+.banner-header nav {
+    background: #fff;
+    display: block;
+    padding: 1em 3em;
+    border-radius: 25px;
+}
+.bg-light {
+    height: 70px;
+    border-radius: 25px;
+}
+.collapse {
+    margin-top: -80px;
+    padding-left: 25px;
+    padding-top: 15px;
+}
+.navbar-brand {
+    margin-top: -10px;
+    margin-left: -35px;
+    font-size: 32px;
+    color: linear-gradient(
+        #7FF6FF 0%,
+        #6DDEFA 10.8587771%,
+        #4BAEF1 42.4801028%,
+        #4BAEF1 75.4621493%,
+        #4FACF1 84.0442469%,
+        #5BA7F0 100%
+    );
+}
+.plus {
+    border: 1px solid transparent;
+    border-radius: 25px;
+    margin-left: -7.5px;
+    color: white;
+    padding: 0 5px 0 5px;
+    background: linear-gradient(
+        to left,
+        #D773E5 0%, 
+        #D377E6 8.41836735%,
+        #6DDEFA 82.0531728%,
+        #6DC8B8 100%
+    )
+}
+.navbar-collapse {
+    margin-left: 300px;
+}
+.fa {
+    padding-right: 5px;
+}
+.nav-link {
+    color: black;
+}
+.nav-bar-nav {
+    padding-left: 25px;
+    margin-left: -25px;
+}
+.logout {
+    border: 1px solid black;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+    margin-top: 15px;
+    padding: 2px 5px 0 25px;
+    font-weight: 600;
+}
+
+.content-text {
+    color: rgba(0,0,0,.5);
+    font-weight: 600;
+    height: 120px;
+    margin-top: 40px;
+}
+.content-text p {
+    font-size: 22px;
+}
+.text-grey {
+    color: rgba(0,0,0,.5);
+    font-weight: 600;
+}
+.central-window {
+    margin-top: 150px;
+}
+.col-md-8 {
+    background-color: white;
+    border: 2px solid rgba(0,0,0,.5);
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 50px;
+}
+.modal-zone {
+    margin-right: 300px;
+    margin-top: -175px;
+}
+.activate {
+    background: linear-gradient(to right, 
+        #7FF6FF 0%,
+        #6DDEFA 10.8587771%,
+        #4BAEF1 42.4801028%,
+        #4BAEF1 75.4621493%,
+        #4FACF1 84.0442469%,
+        #5BA7F0 100%);
+    border-radius: 25px;
+    color: #122dff;
+    display: inline-block;
+    padding: 1px;
+    text-decoration: none;
+}
+.activate span {
+    background: #fff;
+    display: block;
+    padding: 1em 3em;
+    border-radius: 25px;
+}
+
+.admin-add {
+    background-color: white;
+    color: blue;
+    border: 1px solid blue;
+    border-radius: 15px;
+}
+.admin-add {
+    float: right;
+    margin-top: 150px;
+}
+
+.access {
+    background-color: blue;
+    color: white;
+    margin-top: -175px;
+    border-radius: 10px;
+}
+.access:hover {
+    background-color: white;
+    color: blue;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+.modal-content {
+    width: 100%;
+    height: auto;
+}
+#myModalLabel {
+    font-size: 12px;
+}
+.on-page {
+    float: left;
+    margin-right: 5px;
+}
+.second {
+    margin-top: -15px;
+    margin-left: -55px;
+}
+.emotji-finger {
+    float: right;
+    margin-top: -20px;
+    margin-right: -70px;
+}
+.modal-on-page {
+    color: black;
+    font-weight: 600;
+}
+.chatPlus {
+    color: black;
+    font-size: 10px;
+    float: left;
+    margin-left: 20px;
+}
+.plus-flavicon {
+    margin-right: 5px;
+}
+.chat-now {
+   color: #4A90E2;
+   font-weight: 600;
+   font-size: 18px;
+   float: left;
+    margin-left: 100px;
+}
+.logo-messenger {
+    float: right;
+    margin-right: -75px;
+    margin-top: 35px;
+}
+.bottom-window {
+    padding-bottom: 25px;
+}
